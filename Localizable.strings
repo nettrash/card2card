@@ -1,0 +1,20 @@
+/* 
+  card2card.strings
+  card2card
+
+  Created by Ivan Alekseev on 18.09.13.
+  Copyright (c) 2013 OCEAN BANK CJSC. All rights reserved.
+*/
+"rub1" = "рубль";
+"rub2" = "рубля";
+"rub5" = "рублей";
+"cop1" = "копейка";
+"cop2" = "копейки";
+"cop5" = "копеек";
+"comission" = "комиссия составит %@";
+"MainTitle" = "Card 2 Card";
+"HelpTitle" = "Справка";
+"OK" = "OK";
+"PAY" = "ПЕРЕВОД";
+"comission_nosum" = "укажите сумму перевода для расчёта комиссии";
+"SummaError" = "Сумма должна быть в пределах от 1 до 75000 рублей";
